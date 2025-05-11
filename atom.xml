@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>天工&amp;博客</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-05-11T04:08:24.326Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>五大代码托管平台</title>
+    <link href="http://example.com/2025/05/10/%E4%BA%94%E5%A4%A7%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1%E5%B9%B3%E5%8F%B0/"/>
+    <id>http://example.com/2025/05/10/%E4%BA%94%E5%A4%A7%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1%E5%B9%B3%E5%8F%B0/</id>
+    <published>2025-05-10T02:30:19.000Z</published>
+    <updated>2025-05-11T04:08:24.326Z</updated>
+    
+    <content type="html"><![CDATA[<p>作为开发，日常是离不开代码托管平台的。不然 git 代码往哪提交，代码万一丢了或电脑坏了怎么办？</p><p>今天给大家总结下5大免费代码托管平台：</p><p><a href="https://imgse.com/i/pEOLfwn"><img src="https://s21.ax1x.com/2025/05/11/pEOLfwn.jpg" alt="pEOLfwn.jpg"></a></p><p>CODING DevOps 是一站式软件研发管理协作平台</p><p><a href="https://coding.net/">https://coding.net/</a></p><p>CODING DevOps 是一站式软件研发管理协作平台，提供 Git&#x2F;SVN 代码托管、项目协同、测试管理、制品库、CI&#x2F;CD 等一系列在线工具，帮助研发团队快速落地敏捷开发与 DevOps 开发方式，提升研发管理效率，实现研发效能升级。</p><p><a href="https://imgse.com/i/pEOL5F0"><img src="https://s21.ax1x.com/2025/05/11/pEOL5F0.jpg" alt="pEOL5F0.jpg"></a></p><p><a href="http://gitee.com(码云)/">http://Gitee.com（码云）</a> 是 <a href="http://oschina.net/">http://OSCHINA.NET</a> 推出的代码托管平台</p><p><a href="https://gitee.com/">https://gitee.com/</a></p><p><a href="http://gitee.com(码云)/">http://Gitee.com（码云）</a> 是 <a href="http://oschina.net/">http://OSCHINA.NET</a> 推出的代码托管平台，支持 Git 和 SVN，提供免费的私有仓库托管。目前已有超过 800 万的开发者选择 Gitee。</p><p><a href="https://imgse.com/i/pEOLIYV"><img src="https://s21.ax1x.com/2025/05/11/pEOLIYV.jpg" alt="pEOLIYV.jpg"></a></p><p>GitCode——开源代码托管平台，独立第三方开源社区，Git&#x2F;Github&#x2F;Gitlab。</p><p><a href="https://gitcode.net/">https://gitcode.net/</a></p><p>GitCode——开源代码托管平台，独立第三方开源社区，Git&#x2F;Github&#x2F;Gitlab。</p><p><a href="https://imgse.com/i/pEOL7SU"><img src="https://s21.ax1x.com/2025/05/11/pEOL7SU.jpg" alt="pEOL7SU.jpg"></a></p><p>github</p><p><a href="https://github.com/">https://github.com/</a></p><p>这个就不用介绍了吧。</p><p><a href="https://imgse.com/i/pEOLHlF"><img src="https://s21.ax1x.com/2025/05/11/pEOLHlF.jpg" alt="pEOLHlF.jpg"></a></p><p>gitlab 开独立部署也可免费使用的代码托管平台。</p><p><a href="https://about.gitlab.com/">https://about.gitlab.com/</a></p><p>开独立部署也可免费使用的代码托管平台。</p><p><a href="https://imgse.com/i/pEOLby4"><img src="https://s21.ax1x.com/2025/05/11/pEOLby4.jpg" alt="pEOLby4.jpg"></a></p><p>Bitbucket 是面向专业团队的 Git 解决方案。Bitbucket Cloud 可供成员数量不超过 5 人的团队免费使用</p><p><a href="https://www.atlassian.com/zh/software/bitbucket/pricing">https://www.atlassian.com/zh/software/bitbucket/pricing</a></p><p>atlassian 出品，也是一个老牌代码托管平台了。Bitbucket 是面向专业团队的 Git 解决方案。Bitbucket Cloud 可供成员数量不超过 5 人的团队免费使用。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;作为开发，日常是离不开代码托管平台的。不然 git 代码往哪提交，代码万一丢了或电脑坏了怎么办？&lt;/p&gt;
+&lt;p&gt;今天给大家总结下5大免费代码托管平台：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://imgse.com/i/pEOLfwn&quot;&gt;&lt;img src=&quot;https:</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
